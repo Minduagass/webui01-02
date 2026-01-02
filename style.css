@@ -225,6 +225,11 @@
 
   .services-inner {
     grid-template-columns: 1fr;
+    padding-top: 1rem;
+  }
+
+  .services-inner button {
+    margin-bottom: 1rem;
   }
 
   .section-wrapper hr {
